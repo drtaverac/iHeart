@@ -1,5 +1,5 @@
 
-![Alt text](https://2.bp.blogspot.com/-y1hgL4zvQ-I/UObNXHSIHuI/AAAAAAAAAEk/4sTgpLCQF9k/s1600/ecg+black.gif)
+<img src="https://2.bp.blogspot.com/-y1hgL4zvQ-I/UObNXHSIHuI/AAAAAAAAAEk/4sTgpLCQF9k/s1600/ecg+black.gif" alt="Alt text" style="width: 300px;">
 
 # iHeart
 Heart disease prediction based in EKG analysis
