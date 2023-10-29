@@ -4,7 +4,7 @@
 # iHeart
 Heart disease prediction based in EKG analysis
 
-Nuestro proyecto tiene como objetivo analizar los ritmos cardíacos utilizando datos abiertos del dataset MIT-BIH Arrhythmia Database. Utilizaremos los datos de entrenamiento proporcionados para ajustar los pesos de una red convolucional 1D. El objetivo es predecir diferentes tipos de arritmias cardíacas basándonos en la información proporcionada.
+Nuestro proyecto tiene como objetivo analizar los ritmos cardíacos utilizando datos abiertos del dataset MIT-BIH Arrhythmia Database. Utilizaremos los datos de entrenamiento proporcionados para ajustar los pesos de una red convolucional 1D. El objetivo es predecir diferentes tipos de arritmias cardíacas basándonos en el procesamiento ecocardiogramas.
 
 Para llevar a cabo este proyecto, nos basaremos en el siguiente artículo: Artículo. Este artículo nos servirá como referencia para la elaboración de la red neuronal y el preprocesamiento de los datos.
 
