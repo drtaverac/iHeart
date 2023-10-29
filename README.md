@@ -12,7 +12,7 @@ Actualmente, nuestro dataset cuenta con 48 ecocardiogramas que serán utilizados
 
 Nuestro objetivo final es utilizar este modelo para mejorar la detección y el diagnóstico de arritmias cardíacas, lo que podría tener un impacto positivo en el cuidado de la salud cardiovascular.
 
-Por el moemnto contamos con cerca de 4 categorias de clasisifacion de arritmias.
+Contamos con 4 categorias para clasificacion de arritmias.
 ## Data Sources
   MIT-BIH Arrhythmia Database 
     https://www.physionet.org/content/mitdb/1.0.0/
