@@ -4,6 +4,15 @@
 # iHeart
 Heart disease prediction based in EKG analysis
 
+Nuestro proyecto tiene como objetivo analizar los ritmos cardíacos utilizando datos abiertos del dataset MIT-BIH Arrhythmia Database. Utilizaremos los datos de entrenamiento proporcionados para ajustar los pesos de una red convolucional 1D. El objetivo es predecir diferentes tipos de arritmias cardíacas basándonos en la información proporcionada.
+
+Para llevar a cabo este proyecto, nos basaremos en el siguiente artículo: Artículo. Este artículo nos servirá como referencia para la elaboración de la red neuronal y el preprocesamiento de los datos.
+
+Actualmente, nuestro dataset cuenta con 48 ecocardiogramas que serán utilizados para el análisis. Estos datos nos permitirán entrenar y evaluar nuestro modelo de predicción de arritmias cardíacas.
+
+Nuestro objetivo final es utilizar este modelo para mejorar la detección y el diagnóstico de arritmias cardíacas, lo que podría tener un impacto positivo en el cuidado de la salud cardiovascular.
+
+Por el moemnto contamos con cerca de 4 categorias de clasisifacion de arritmias.
 ## Data Sources
   MIT-BIH Arrhythmia Database 
     https://www.physionet.org/content/mitdb/1.0.0/
