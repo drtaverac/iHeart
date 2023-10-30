@@ -8,7 +8,8 @@ Nuestro proyecto tiene como objetivo clasificar arritmias cardiacas por medio de
 
 Nuestro dataset de entrenamiento MIT-BIH cuenta con 48 ecocardiogramas y con su respectiva clasificacion numerica [1-4], donde cada número representa un tipo de arritmia particular. Nos basaremos en una red prediseñada encontrada en el articulo de referencia. 
 
-Buscamos obtener un modelo mas flexible entrenado con datos mas cercanos a nuestras regiones de Colombia y LATAM.
+Buscamos obtener un modelo mas flexible entrenado con datos mas cercanos a nuestras regiones de LATAM. 
+
 ## Data Sources
   MIT-BIH Arrhythmia Database <br>
     https://www.physionet.org/content/mitdb/1.0.0/
