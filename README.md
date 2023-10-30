@@ -10,11 +10,11 @@ Nuestro dataset de entrenamiento MIT-BIH cuenta con 48 ecocardiogramas y con su 
 
 Buscamos obtener un modelo mas flexible entrenado con datos mas cercanos a nuestras regiones de Colombia y LATAM.
 ## Data Sources
-  MIT-BIH Arrhythmia Database 
+  MIT-BIH Arrhythmia Database <br>
     https://www.physionet.org/content/mitdb/1.0.0/
+    <br>
   The China Physiological Signal Challenge 2018: Automatic identification of the rhythm/morphology abnormalities in 12-lead ECGs
     http://2018.icbeb.org/Challenge.html
 
-## Referencias 
-Estudio de Analiss de electrocardiogramas.
+## Referencia
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8802771/
