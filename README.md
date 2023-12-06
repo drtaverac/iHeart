@@ -4,7 +4,7 @@
 # iHeart
 Heart disease prediction based in EKG analysis
 
-Nuestro proyecto tiene como objetivo clasificar arritmias cardiacas por medio del analizis señales de electrocardiogramas (EKG) reales.  Primeramente usaremos el dataset MIT-BIH Arrhythmia Database que es un dataset abierto y lo completaremos con otros datasets. De forma preliminar usaremos una red convolucional 1D. 
+Nuestro proyecto tiene como objetivo clasificar arritmias cardiacas por medio del analisis señales de electrocardiogramas (EKG) reales.  Primeramente usaremos el dataset MIT-BIH Arrhythmia Database que es un dataset abierto y lo completaremos con otros datasets. De forma preliminar usaremos una red convolucional 1D. 
 
 Nuestro dataset de entrenamiento MIT-BIH cuenta con 48 ecocardiogramas y con su respectiva clasificacion numerica [1-4], donde cada número representa un tipo de arritmia particular. Nos basaremos en una red prediseñada encontrada en el articulo de referencia. 
 
