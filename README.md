@@ -2,13 +2,23 @@
 <img src="https://2.bp.blogspot.com/-y1hgL4zvQ-I/UObNXHSIHuI/AAAAAAAAAEk/4sTgpLCQF9k/s1600/ecg+black.gif" alt="Alt text" style="width: 300px;">
 
 # iHeart
-Heart disease prediction based in EKG analysis
+Predicción de arritmias cardíacas basada en el análisis del electrocardiograma.
 
-Nuestro proyecto tiene como objetivo clasificar arritmias cardiacas por medio del analisis señales de electrocardiogramas (EKG) reales.  Primeramente usaremos el dataset MIT-BIH Arrhythmia Database que es un dataset abierto y lo completaremos con otros datasets. De forma preliminar usaremos una red convolucional 1D. 
+## Autores: Daniel Tavera, Brayan Rojas
 
-Nuestro dataset de entrenamiento MIT-BIH cuenta con 48 ecocardiogramas y con su respectiva clasificacion numerica [1-4], donde cada número representa un tipo de arritmia particular. Nos basaremos en una red prediseñada encontrada en el articulo de referencia. 
+## Objetivo: 
+Clasificar arritmias cardiacas por medio del analisis señales de electrocardiogramas (EKG) reales.
 
-Buscamos obtener un modelo mas flexible entrenado con datos mas cercanos a nuestras regiones de LATAM. 
+## Datasets:
+- https://www.kaggle.com/datasets/bulentesen/cardiac-arrhythmia-database <br>
+Este dataset cuenta con 452 registros de electrocardiogramas con metadatos, que están clasificados en 16 grupos donde el grupo 1 hace referencia a la normalidad, el grupo 16 se refiere a las arritmias no clasificadas y el resto de grupos se refiere a diferentes clases de arritmia.
+
+- https://physionet.org/content/ptbdb/1.0.0/<br>
+El conjunto de datos PTB Diagnostic ECG Database es una colección de 549 ECG de alta resolución de 15 derivaciones, que también incluye resúmenes clínicos para cada registro. Contiene ECGs de sujetos sanos y pacientes con diversas enfermedades cardíacas, y fueron obtenidos utilizando un prototipo de registrador PTB no comercial. Cada sujeto está representado por uno a cinco registros, y cada registro incluye 15 señales medidas simultáneamente, las 12 derivaciones convencionales junto con las 3 electrojeaciones ECG de Frank.
+
+
+## Modelo: 
+Deep Neural Networks (DNNs), Convolutional Neural Networks (CNNs)
 
 ## Data Sources
   MIT-BIH Arrhythmia Database <br>
