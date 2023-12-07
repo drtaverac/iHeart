@@ -1,7 +1,7 @@
 
 ![iHeart](https://github.com/drtaverac/iHeart/blob/main/IHeart.jpg)
 # iHeart
-### Predicción de arritmias cardíacas basada en el análisis del electrocardiograma.
+### Clasificación de arritmias cardíacas basada en el análisis del electrocardiograma.
 
 ## Autores: Daniel Tavera, Brayan Rojas
 
