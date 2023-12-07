@@ -14,4 +14,4 @@ El conjunto de datos PTB Diagnostic ECG Database es una colección de 549 ECG de
 
 
 ## Modelo: 
-### Deep Neural Networks (DNNs), Convolutional Neural Networks (CNNs)
+### Deep Neural Networks (DNNs), Convolutional Neural Networks (CNNs), Resampling, Wavelet Tranform, Beat clasification
