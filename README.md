@@ -18,13 +18,3 @@ El conjunto de datos PTB Diagnostic ECG Database es una colección de 549 ECG de
 
 ## Modelo: 
 Deep Neural Networks (DNNs), Convolutional Neural Networks (CNNs)
-
-## Data Sources
-  MIT-BIH Arrhythmia Database <br>
-    https://www.physionet.org/content/mitdb/1.0.0/
-    <br>
-  The China Physiological Signal Challenge 2018: Automatic identification of the rhythm/morphology abnormalities in 12-lead ECGs
-    http://2018.icbeb.org/Challenge.html
-
-## Referencia
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8802771/
